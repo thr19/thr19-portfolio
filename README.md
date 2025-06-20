@@ -1,5 +1,10 @@
 # THR19 Portfolio
 
+![Deploy to GitHub Pages](https://github.com/thr19/thr19-portfolia/actions/workflows/deploy.yml/badge.svg)
+
+A minimalist portfolio powered by Alpine.js + Vite, deployed automatically to [thr19.github.io](https://thr19.github.io)
+
+
 Welcome to the THR19 Portfolio project! This repository contains the source code and assets for showcasing personal or professional work.
 
 ## Features
