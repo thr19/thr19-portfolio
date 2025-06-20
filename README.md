@@ -1,6 +1,6 @@
 # THR19 Portfolio
 
-![Deploy to GitHub Pages](https://github.com/thr19/thr19-portfolia/actions/workflows/deploy.yml/badge.svg)
+[![Deploy to thr19.github.io](https://github.com/thr19/thr19-portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/thr19/thr19-portfolio/actions/workflows/deploy.yml)
 
 A minimalist portfolio powered by Alpine.js + Vite, deployed automatically to [thr19.github.io](https://thr19.github.io)
 
